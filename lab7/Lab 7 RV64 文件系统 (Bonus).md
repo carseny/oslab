@@ -987,4 +987,6 @@ int sfs_get_files(const char *path, char *files[]) {
 
 请在此附上你的所有测试程序实验结果截图。
 
+图有点长，跑下一页去了...
+
 ![program test](./imgs/test.png)
